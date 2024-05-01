@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/ankitpatel-01/app-stock-control-server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/ankitpatel-01/appStockControl.git
